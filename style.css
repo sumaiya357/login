@@ -1,0 +1,27 @@
+
+
+.sec1{
+    background-image: url('p3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+ 
+    font-size: 1.5vw;
+    margin-top: 50px;
+    padding-top: 20px;
+    font-family:  'Poppins','sans-serif';}
+
+    .div2{
+        margin-top: 70px;
+    } 
+    #span , #span2, #span3, #span4{
+        color: red;
+        padding-left: 10px;
+    }
+    .btn{
+        margin-top: 10px;
+        font-size: 1.5vw;
+    }
